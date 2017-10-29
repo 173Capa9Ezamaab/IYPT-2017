@@ -1,9 +1,9 @@
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-9-E   | Zafer Özcan | 563
-9-E   | Mahmut Tokgöz | 631
-9-E   |Abdullah Yürük |655
+Sınıf | Öğrenci İsmi   | Numara
+------|----------------|--------
+9-E   | Zafer Özcan    | 563
+9-E   | Mahmut Tokgöz  | 631
+9-E   | Abdullah Yürük | 655
 #  (Weighing Time)
 ## Özet
 Çalışan bir kum saatinin ağırlığı, dinlenme sırasındaki kum saatinin ağırlığından sapar.Bunun sebebi kısaca
